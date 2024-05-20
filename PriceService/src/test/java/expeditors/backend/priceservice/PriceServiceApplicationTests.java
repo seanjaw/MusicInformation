@@ -1,10 +1,10 @@
-package org.expeditors.trackservice;
+package expeditors.backend.priceservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TrackServiceApplicationTests {
+class PriceServiceApplicationTests {
 
     @Test
     void contextLoads() {

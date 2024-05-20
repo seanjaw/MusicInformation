@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a95d623-aee6-4ad8-973b-3f4e06d27d92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrackService/src/main/java/expeditors/backend/controller/TrackController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrackService/src/main/java/expeditors/backend/dao/inmemory/InMemoryTrackDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MusicInformation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PriceService/src/main/java/expeditors/backend/controller/PriceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/PriceService/src/main/java/expeditors/backend/controller/PriceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PriceService/src/main/java/expeditors/backend/service/PriceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PriceService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PriceService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PriceService/src/test/java/org/expeditors/priceservice/PriceServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/PriceService/src/test/java/expeditors/backend/priceservice/PriceServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TrackService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackService/src/main/java/expeditors/backend/TrackServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrackService/src/main/java/expeditors/backend/TrackServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackService/src/main/java/expeditors/backend/app/TrackApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackService/src/main/java/expeditors/backend/contoller/TrackController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackService/src/main/java/expeditors/backend/dao/inmemory/InMemoryTrackDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackService/src/main/java/expeditors/backend/domain/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrackService/src/main/java/expeditors/backend/domain/Artist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackService/src/main/java/expeditors/backend/domain/Track.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrackService/src/main/java/expeditors/backend/domain/Track.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackService/src/main/java/expeditors/backend/jconfig/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrackService/src/main/java/expeditors/backend/jconfig/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackService/src/main/java/expeditors/backend/service/TrackService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrackService/src/main/java/expeditors/backend/service/TrackService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/TrackService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackService/src/test/java/org/expeditors/trackservice/TrackServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrackService/src/test/java/expeditors/backend/trackservice/TrackServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2fTH8MPFNlfTbFOmpoj9Ptt4f6F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.PriceControllerMvcTest.testGetTrackPrice.executor": "Run",
+    "JUnit.TrackControllerClientTest.testGetAll.executor": "Run",
+    "JUnit.TrackControllerClientTest.testGetOneWithExistingId.executor": "Run",
+    "JUnit.TrackServiceTest.executor": "Run",
+    "JUnit.TrackServiceTest.testDeleteTrack.executor": "Debug",
+    "JUnit.TrackServiceTest.testGetAll.executor": "Run",
+    "JUnit.TrackServiceTest.testGetAllTracks.executor": "Run",
+    "JUnit.TrackServiceTest.testGetExistingTrack.executor": "Run",
+    "JUnit.TrackServiceTest.testGetNonExistingTrack.executor": "Run",
+    "JUnit.TrackServiceTest.testUpdateNonExistingTrack.executor": "Run",
+    "JUnit.TrackServiceTest.testUpdateTrack.executor": "Run",
+    "JUnit.TrackServiceUnitTest.executor": "Run",
+    "JUnit.TrackServiceUnitTest.testAddAdopter.executor": "Run",
+    "JUnit.TrackServiceUnitTest.testGetAll.executor": "Run",
+    "JUnit.TrackServiceUnitTest.testGetValidId.executor": "Run",
+    "JUnit.java in TrackService.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.PriceServiceApplication.executor": "Run",
+    "Spring Boot.TrackServiceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/dev/workspace/sean/MusicInformation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pathVariables",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TrackControllerClientTest.testGetOneWithExistingId">
+    <configuration name="TrackControllerClientTest.testGetAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrackService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="expeditors.backend.trackservice.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="expeditors.backend.trackservice.controller" />
+      <option name="MAIN_CLASS_NAME" value="expeditors.backend.trackservice.controller.TrackControllerClientTest" />
+      <option name="METHOD_NAME" value="testGetAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrackControllerClientTest.testGetOneWithExistingId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrackService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="expeditors.backend.trackservice.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="expeditors.backend.trackservice.controller" />
+      <option name="MAIN_CLASS_NAME" value="expeditors.backend.trackservice.controller.TrackControllerClientTest" />
+      <option name="METHOD_NAME" value="testGetOneWithExistingId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrackServiceUnitTest.testGetAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrackService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="expeditors.backend.trackservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="expeditors.backend.trackservice.service" />
+      <option name="MAIN_CLASS_NAME" value="expeditors.backend.trackservice.service.TrackServiceUnitTest" />
+      <option name="METHOD_NAME" value="testGetAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrackServiceUnitTest.testGetValidId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrackService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="expeditors.backend.trackservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="expeditors.backend.trackservice.service" />
+      <option name="MAIN_CLASS_NAME" value="expeditors.backend.trackservice.service.TrackServiceUnitTest" />
+      <option name="METHOD_NAME" value="testGetValidId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in TrackService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TrackService" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/TrackService/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriceServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="PriceService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="expeditors.backend.PriceServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrackServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="TrackService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="expeditors.backend.TrackServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TrackControllerClientTest.testGetOneWithExistingId" />
+        <item itemvalue="JUnit.TrackControllerClientTest.testGetAll" />
+        <item itemvalue="JUnit.TrackServiceUnitTest.testGetValidId" />
+        <item itemvalue="JUnit.java in TrackService" />
+        <item itemvalue="JUnit.TrackServiceUnitTest.testGetAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a95d623-aee6-4ad8-973b-3f4e06d27d92" name="Changes" comment="" />
+      <created>1713817988111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713817988111</updated>
+      <workItem from="1713817988955" duration="2271000" />
+      <workItem from="1713820280732" duration="36000" />
+      <workItem from="1713820351332" duration="1103000" />
+      <workItem from="1713822173094" duration="83615000" />
+      <workItem from="1714411830329" duration="1580000" />
+      <workItem from="1716231549577" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
